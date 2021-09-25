@@ -26,7 +26,8 @@ API nodeJS com Typecript
 1. Faça um clone desse repositório;
 2. Entre na pasta `cd nodeJS_Typecscript`;
 3. Rode `yarn` para instalar as dependências;
-4. Rode `yarn start` para iniciar o servidor.
+4. Rode `yarn build` oara construir o projeto.
+5. Rode `yarn start` para iniciar o servidor.
 
 ## ⚡️ Como contribuir
 

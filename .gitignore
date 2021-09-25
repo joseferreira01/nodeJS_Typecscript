@@ -34,8 +34,9 @@ bower_components
 construir / liberar
 
 # Diretórios de dependência
-node_modules /
-jspm_packages /
+node_modules/
+jspm_packages/
+dist/
 
 # Arquivos de declaração TypeScript v1
 tipificações /
