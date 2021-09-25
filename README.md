@@ -3,9 +3,9 @@
 API nodeJS com Typecript
 </h3>
 
-<p align="center"> Essa API calcular a melhor condição de surf entre varias praias, essa API tem como objetivo aprimorar meus conhecimentos em nodeJS com Typescript (a aplicação web não será construida nesse primeiro momento pois ela não é o foco do conteúdo, ela é disponibilizada pronta</p>
-<p>  O código dessa API foi contruido com pase no curso:  
-- [🚀Curso de Node.js do zero a produção!! ](https://www.youtube.com/watch?v=W2ld5xRS3cY&list=PLz_YTBuxtxt6_Zf1h-qzNsvVt46H8ziKh&index=1&ab_channel=WaldemarNeto-DevLab)</p>
+<p align="center"> Essa API calcular a melhor condição de surf entre varias praias, essa API tem como objetivo aprimorar meus conhecimentos em nodeJS com Typescript (a aplicação web não será construida nesse primeiro momento pois ela não é o foco do conteúdo, ela é disponibilizada pronta O código dessa API foi contruido com base no 
+
+[curso de Node.js do zero a produção!!](https://www.youtube.com/watch?v=W2ld5xRS3cY&list=PLz_YTBuxtxt6_Zf1h-qzNsvVt46H8ziKh&index=1&ab_channel=WaldemarNeto-DevLab)</p>
 
 ## 👨🏼‍💻 Responsavel
 
